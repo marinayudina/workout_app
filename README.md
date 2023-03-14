@@ -2,7 +2,7 @@
 
 App for adding and storing workouts( in progress)
 
-Верстка кодом через NSLayoutConstraints
+Верстка кодом через NSLayoutConstraint
 
 Использование Realm для хранения тренировок
 
